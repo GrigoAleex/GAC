@@ -1,0 +1,3 @@
+/Users/grig/Documents/2. Areas/University/2.2/GAC/vectors/cmake-build-debug/CMakeFiles/vectors.dir
+/Users/grig/Documents/2. Areas/University/2.2/GAC/vectors/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/grig/Documents/2. Areas/University/2.2/GAC/vectors/cmake-build-debug/CMakeFiles/rebuild_cache.dir

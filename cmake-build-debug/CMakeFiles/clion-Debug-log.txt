@@ -1,0 +1,15 @@
+"/Users/grig/Applications/CLion Nova.app/Contents/bin/cmake/mac/aarch64/bin/cmake" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=/Users/grig/Applications/CLion Nova.app/Contents/bin/ninja/mac/aarch64/ninja" -G Ninja -S "/Users/grig/Documents/2. Areas/University/2.2/GAC/vectors" -B "/Users/grig/Documents/2. Areas/University/2.2/GAC/vectors/cmake-build-debug"
+CMake Warning at /Users/grig/Applications/CLion Nova.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Platform/Darwin-Initialize.cmake:308 (message):
+  Ignoring CMAKE_OSX_SYSROOT value:
+
+   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk
+
+  because the directory does not exist.
+Call Stack (most recent call first):
+  /Users/grig/Applications/CLion Nova.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeSystemSpecificInitialize.cmake:34 (include)
+  CMakeLists.txt:2 (project)
+
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /Users/grig/Documents/2. Areas/University/2.2/GAC/vectors/cmake-build-debug
